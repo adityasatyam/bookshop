@@ -116,7 +116,7 @@ class Home extends Component {
             <div style={{ color: "white", height: "100%", backgroundImage: `url("https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1741&q=80")` }}>
 
                 <Navbar bg={"dark"} variant="dark" style={{ fontWeight: "bold" }}>
-                    <Navbar.Brand onClick={() => this.setState({ cartStatus: false })}>Books</Navbar.Brand>
+                    <Navbar.Brand onClick={() => this.setState({ cartStatus: false })}>Books101</Navbar.Brand>
                     <Nav className="mr-auto">
                         {/* <Nav.Link href="#home">Home</Nav.Link> */}
                         <NavDropdown title="Sort by  ⭐" id="basic-nav-dropdown" onSelect={(e) => this.setState({ sort: e })}>
