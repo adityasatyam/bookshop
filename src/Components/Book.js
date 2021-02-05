@@ -66,6 +66,8 @@ function MyVerticallyCenteredModal(props) {
 
         >
             {/* <div style={{ color:"white",backgroundColor:"grey",backgroundImage: `url("https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2167&q=80")` }}> */}
+            {/* HELLO */}
+            
             <div style={{ color:"white",backgroundColor:"grey",opacity:0.7}}>
                 <Modal.Header closeButton>
                     <Modal.Title id="contained-modal-title-vcenter">
