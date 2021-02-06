@@ -74,7 +74,7 @@ class Home extends Component {
     // currentPage = this.state.selectedPage;
     // offset = this.currentPage * this.PER_PAGE;
     // pageCount = Math.ceil(this.state.rawData.length / this.PER_PAGE);
-    //1st commit
+    //3rd commit
 
     componentDidMount = () => {
         axios.get("https://s3-ap-southeast-1.amazonaws.com/he-public-data/books8f8fe52.json")
