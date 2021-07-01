@@ -1,3 +1,13 @@
+A Shopping Website.
+Search your favorite book or writer.
+View and add it to bucket.
+Full payment functionality.
+
+Try it out: https://book-shop101.herokuapp.com/ 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
