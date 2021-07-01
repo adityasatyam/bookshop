@@ -1,6 +1,9 @@
 A Shopping Website.
+
 Search your favorite book or writer.
+
 View and add it to bucket.
+
 Full payment functionality.
 
 Try it out: https://book-shop101.herokuapp.com/ 
