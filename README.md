@@ -2,11 +2,13 @@ A Shopping Website.
 
 Search your favorite book or writer.
 
-View and add it to bucket.
+View and add it to cart.
 
 Full payment functionality.
 
 Try it out: https://book-shop101.herokuapp.com/ 
+
+Uses React ,Redux and Payment feature
 
 
 
